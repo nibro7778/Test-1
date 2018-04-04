@@ -2,3 +2,4 @@ Hello world
 feature branch changes
 added line
 added line
+new line added
